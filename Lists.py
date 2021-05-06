@@ -40,3 +40,7 @@ print(Alex)
 
 for n in Alex.values():
     print(n)
+
+tuple1 = ("ALex" , "123")
+print(tuple1)
+
