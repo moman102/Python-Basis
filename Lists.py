@@ -25,3 +25,18 @@ for item in list:
     if item == 'd':
         print(list.index('d'))
     print(item)
+
+Alex = {
+    "firstname ": "Alex ",
+    "Matrikel nr ": "266186",
+    "Age": "22",
+    "sex":"M"
+}
+
+print(Alex["firstname "],Alex["Matrikel nr "])
+Alex["Tel"] = "123456789"
+
+print(Alex)
+
+for n in Alex.values():
+    print(n)

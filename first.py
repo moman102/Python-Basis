@@ -19,3 +19,5 @@ print(test_string[6:10])
 print(test_string.upper())
 print(test_string.isupper())
 
+
+
